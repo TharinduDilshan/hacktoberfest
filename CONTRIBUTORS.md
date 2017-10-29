@@ -16667,3 +16667,8 @@ to explore life. Also, Python and Django Developer
 - Place: Rafael Calzada, Buenos Aires, Argentina
 - Bio: Software Developer, Student at Universidad de Buenos Aires
 - GitHub: [fedesassone](https://github.com/fedesassone)
+
+#### Name: [Kavindi Oshini] (https://github.com/KavindiOshini)
+- Place: Colombo,Sri Lanka
+- Bio: Computer Science student at Uni of Westminster
+- GitHub: [KavindiOshini](https://github.com/KavindiOshini)
